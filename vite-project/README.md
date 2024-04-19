@@ -62,3 +62,5 @@ added 45 packages, and audited 46 packages in 9s
 found 0 vulnerabilities
 
 C:\projects\large-scale-apps-my-vue-vite-project-learning\vite-project>
+
+#Chapter 2 - Your First Component
